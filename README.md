@@ -1,5 +1,4 @@
 # Facial-Recognition-AI
-Used in conjunction with Senior Design Project: Smartlock
 
 Sample URLs:
 http://www.asianfortunenews.com/site/images_0409/1.2_kim_1.jpg
